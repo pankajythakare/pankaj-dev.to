@@ -21,4 +21,4 @@ https://dev.to/pankajythakare
 
 ## Blog posts
 
-- [An Introduction](https://dev.to/pankajythakare/an-introductionss)
+- [An Introduction](https://dev.to/pankajythakare/an-introductions)
