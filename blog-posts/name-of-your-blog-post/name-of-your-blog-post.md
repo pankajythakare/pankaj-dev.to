@@ -1,8 +1,8 @@
 ---
 published: false
-title: "An Introduction"
-cover_image: "https://raw.githubusercontent.com/pankajythakare/pankaj-dev.to/master/blog-posts/NAME-OF-YOUR-BLOG-POST/assets/introduction.png"
-description: "Welcome to my first blog-post ever on dev.to"
+title: 'An Introduction'
+cover_image: 'https://raw.githubusercontent.com/pankajythakare/pankaj-dev.to/master/blog-posts/NAME-OF-YOUR-BLOG-POST/assets/introduction.png'
+description: 'Welcome to my first blog-post ever on dev.to'
 tags: pankaj, thakare, pankajythakare, beginner, introduction
 series:
 canonical_url:
